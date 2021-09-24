@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+*{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+body {
+    background-color: lightpink;
+}
+
+.circle>.gambar-saya {
+    width: 400px;
+    height: 200px;
+    border: 4px solid black;
+}
+
+.halo {
+    padding-left: 590px;
+    font-size: 30px;
+    font-weight: 50;
+    line-height: 10px;
+}
+
+.name {
+    padding-left: 25px;
+    font-size: 17px;
+    background-color: lightblue;
+    color: deeppink;
+    border: 3px solid black;
+}
+
+.nama {
+    padding-left: 1px;
+    background-color: mediumorchid;
+    width: 275px;
+    color: lightpink;
+    border: 3px solid black;
+}
+
+.kelas {
+    padding-left: 2px;
+    background-color: lightblue;
+    width: 680px;
+    color: deeppink;
+    border: 3px solid black;
+}
+
+.sekolah {
+    padding-left: 1px;
+    background-color: lightblue;
+    width: 370px;
+    color: deeppink;
+    border: 3px solid black;
+}
+
+.aku {
+    padding-left: 1px;
+    font-size: 17px;
+    background-color: lightblue;
+    width: 400px;
+    color: deeppink;
+    border: 3px solid black;
+}
+
+.saya {
+    padding-left: 1px;
+    background-color: mediumorchid;
+    width: 600px;
+    color: lightpink;
+    border: 3px solid black;
+}
